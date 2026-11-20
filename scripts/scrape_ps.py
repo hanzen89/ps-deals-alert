@@ -11,7 +11,7 @@ SHA256_HASH = "88c0b9a1273c6d320c51cd73e390924e21ae28bf09f01cde8b84b1034b16cd03"
 
 MAX_PAGES = 10            # 10 halaman x 24 = 240 game diskon
 PAGE_SIZE = 24
-MIN_BASE_PRICE = 100000   # Filter game murah/shovelware di bawah Rp 100.000
+MIN_BASE_PRICE = 150000   # Filter game murah/shovelware di bawah Rp 100.000
 
 HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "docs/deals.json"
@@ -37,7 +37,11 @@ def fetch_page(offset: int) -> list[dict]:
         "id": CATEGORY_ID,
         "pageArgs": {"size": PAGE_SIZE, "offset": offset},
         "sortBy": None,
-        "filterBy": [],
+        "filterBy": [
+                "storeDisplayClassification:FULL_GAME",
+                "storeDisplayClassification:GAME_BUNDLE",
+                "storeDisplayClassification:PREMIUM_EDITION",
+        ],
         "facetOptions": [],
     }
     extensions = {
