@@ -1,0 +1,657 @@
+{
+  "updated_at": "2026-11-20T08:15:27.669743+00:00",
+  "locale": "en-id",
+  "total_scanned": 237,
+  "top_discounts": [
+    {
+      "id": "UP0006-CUSA15081_00-ASIA000000000002",
+      "name": "Need for Speed™ Heat Deluxe Edition (English/Chinese/Korean Ver.)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 111999,
+      "discounted_price_display": "Rp 111,999",
+      "discount_percent": 90,
+      "lowest_price": 111999,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/wztiER7QJkPLq49CG5j5PqZM.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-CUSA15081_00-ASIA000000000002"
+    },
+    {
+      "id": "UP0006-PPSA03845_00-BEYONDPS5GAME000",
+      "name": "Dead Space (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 111999,
+      "discounted_price_display": "Rp 111,999",
+      "discount_percent": 90,
+      "lowest_price": 111999,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/2uQ9krCrTymIECLlXII1rJYQ.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA03845_00-BEYONDPS5GAME000"
+    },
+    {
+      "id": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+      "name": "Hogwarts Legacy PS5 Version (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1098900,
+      "base_price_display": "Rp 1,098,900",
+      "discounted_price": 109890,
+      "discounted_price_display": "Rp 109,890",
+      "discount_percent": 90,
+      "lowest_price": 109890,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01"
+    },
+    {
+      "id": "UP1018-CUSA04408_00-SOMGOTYSOWDE0000",
+      "name": "Middle-earth™: The Shadow Bundle (Game)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1076700,
+      "base_price_display": "Rp 1,076,700",
+      "discounted_price": 107670,
+      "discounted_price_display": "Rp 107,670",
+      "discount_percent": 90,
+      "lowest_price": 107670,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2600/xzjVhrdaFxt6pKPdpdovNFOb.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA04408_00-SOMGOTYSOWDE0000"
+    },
+    {
+      "id": "UP1018-CUSA00133_00-ASIA000000000064",
+      "name": "Batman: Arkham Collection (English, Korean)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 921300,
+      "base_price_display": "Rp 921,300",
+      "discounted_price": 92130,
+      "discounted_price_display": "Rp 92,130",
+      "discount_percent": 90,
+      "lowest_price": 92130,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/0F23tOnLGzrtp74JvhJdhtpy.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA00133_00-ASIA000000000064"
+    },
+    {
+      "id": "EP4321-CUSA20373_00-8293343774348521",
+      "name": "Sniper Ghost Warrior Contracts 1 & 2 Double Pack (Simplified Chinese, English, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 920190,
+      "base_price_display": "Rp 920,190",
+      "discounted_price": 92019,
+      "discounted_price_display": "Rp 92,019",
+      "discount_percent": 90,
+      "lowest_price": 92019,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0410/54NfIdFnQ7FHKmNMRfsxTkFl.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4321-CUSA20373_00-8293343774348521"
+    },
+    {
+      "id": "UP1018-CUSA12824_00-HOGWARTSLEGACY01",
+      "name": "Hogwarts Legacy PS4 Version (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 897990,
+      "base_price_display": "Rp 897,990",
+      "discounted_price": 89799,
+      "discounted_price_display": "Rp 89,799",
+      "discount_percent": 90,
+      "lowest_price": 89799,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA12824_00-HOGWARTSLEGACY01"
+    },
+    {
+      "id": "HP1018-PPSA01866_00-LEGOSWTSS0000000",
+      "name": "LEGO® Star Wars™: The Skywalker Saga PS4 & PS5 (English, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 897990,
+      "base_price_display": "Rp 897,990",
+      "discounted_price": 89799,
+      "discounted_price_display": "Rp 89,799",
+      "discount_percent": 90,
+      "lowest_price": 89799,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+      "store_url": "https://store.playstation.com/en-id/product/HP1018-PPSA01866_00-LEGOSWTSS0000000"
+    },
+    {
+      "id": "UP0006-PPSA01716_00-COMPLETEEDITION0",
+      "name": "Need for Speed™ Unbound Ultimate Collection (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1330890,
+      "base_price_display": "Rp 1,330,890",
+      "discounted_price": 199633,
+      "discounted_price_display": "Rp 199,633",
+      "discount_percent": 85,
+      "lowest_price": 199633,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/5189b73892748dacb9a2e054ddbcb29f0bb482ddf09636c0.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA01716_00-COMPLETEEDITION0"
+    },
+    {
+      "id": "UP0006-PPSA07783_00-APPLEJACKGAME000",
+      "name": "STAR WARS Jedi: Survivor™ (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 167998,
+      "discounted_price_display": "Rp 167,998",
+      "discount_percent": 85,
+      "lowest_price": 167998,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA07783_00-APPLEJACKGAME000"
+    },
+    {
+      "id": "EP4356-PPSA02325_00-HWUGAMEOFTHEYEAR",
+      "name": "HOT WHEELS UNLEASHED™ - Game of the Year Edition (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1108890,
+      "base_price_display": "Rp 1,108,890",
+      "discounted_price": 166333,
+      "discounted_price_display": "Rp 166,333",
+      "discount_percent": 85,
+      "lowest_price": 166333,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1114/BpZzNu07rVUOwTgmC29xHYIj.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA02325_00-HWUGAMEOFTHEYEAR"
+    },
+    {
+      "id": "EP4356-CUSA25503_00-HWUGAMEOFTHEYEAR",
+      "name": "HOT WHEELS UNLEASHED™ - Game of the Year Edition (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1108890,
+      "base_price_display": "Rp 1,108,890",
+      "discounted_price": 166333,
+      "discounted_price_display": "Rp 166,333",
+      "discount_percent": 85,
+      "lowest_price": 166333,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1114/BpZzNu07rVUOwTgmC29xHYIj.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-CUSA25503_00-HWUGAMEOFTHEYEAR"
+    },
+    {
+      "id": "JP0001-PPSA01594_00-RRDELUXEED000000",
+      "name": "Riders Republic Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 975690,
+      "base_price_display": "Rp 975,690",
+      "discounted_price": 146353,
+      "discounted_price_display": "Rp 146,353",
+      "discount_percent": 85,
+      "lowest_price": 146353,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/eaf25f197a56e4e643df7475a2bf23ad77b3c023cd37a241.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/JP0001-PPSA01594_00-RRDELUXEED000000"
+    },
+    {
+      "id": "UP1018-PPSA07570_00-MKONE00000000000",
+      "name": "Mortal Kombat™ 1 (English)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 876900,
+      "base_price_display": "Rp 876,900",
+      "discounted_price": 131535,
+      "discounted_price_display": "Rp 131,535",
+      "discount_percent": 85,
+      "lowest_price": 131535,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-PPSA07570_00-MKONE00000000000"
+    },
+    {
+      "id": "JP0082-PPSA08664_00-0783148264580163",
+      "name": "FINAL FANTASY VII REBIRTH (JP/EN ver) (English, Japanese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 809190,
+      "base_price_display": "Rp 809,190",
+      "discounted_price": 121378,
+      "discounted_price_display": "Rp 121,378",
+      "discount_percent": 85,
+      "lowest_price": 121378,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/4a13ce96b9aee645c5e513658e93d7a19da511e7ef3501d9.png",
+      "store_url": "https://store.playstation.com/en-id/product/JP0082-PPSA08664_00-0783148264580163"
+    },
+    {
+      "id": "HP0082-PPSA08670_00-0783148264580163",
+      "name": "FINAL FANTASY VII REBIRTH (TC/SC/KR ver) (Simplified Chinese, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 809190,
+      "base_price_display": "Rp 809,190",
+      "discounted_price": 121378,
+      "discounted_price_display": "Rp 121,378",
+      "discount_percent": 85,
+      "lowest_price": 121378,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/4a13ce96b9aee645c5e513658e93d7a19da511e7ef3501d9.png",
+      "store_url": "https://store.playstation.com/en-id/product/HP0082-PPSA08670_00-0783148264580163"
+    },
+    {
+      "id": "UP0006-CUSA08724_00-ASIA000000000010",
+      "name": "Battlefield™ V (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 786990,
+      "base_price_display": "Rp 786,990",
+      "discounted_price": 118048,
+      "discounted_price_display": "Rp 118,048",
+      "discount_percent": 85,
+      "lowest_price": 118048,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-CUSA08724_00-ASIA000000000010"
+    },
+    {
+      "id": "EP4356-PPSA19566_00-MOTOGP24FULLGAME",
+      "name": "MotoGP™24 PS4 & PS5 (Simplified Chinese, English, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0116/aa24d5101936ab634911e35bf6bed0acbeb362de04eed211.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA19566_00-MOTOGP24FULLGAME"
+    },
+    {
+      "id": "UP4040-PPSA01949_00-CONTROLUEPS50000",
+      "name": "CONTROL Ultimate Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0615/3UWZHE8qN0kgnF6o74Ts4AC4.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP4040-PPSA01949_00-CONTROLUEPS50000"
+    },
+    {
+      "id": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5 (Simplified Chinese, English, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1610/58e6bad48016d93a3598c3df0681f8b80ec9330a1c29c799.png",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED"
+    }
+  ],
+  "all_time_lows": [
+    {
+      "id": "UP0006-CUSA15081_00-ASIA000000000002",
+      "name": "Need for Speed™ Heat Deluxe Edition (English/Chinese/Korean Ver.)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 111999,
+      "discounted_price_display": "Rp 111,999",
+      "discount_percent": 90,
+      "lowest_price": 111999,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/wztiER7QJkPLq49CG5j5PqZM.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-CUSA15081_00-ASIA000000000002"
+    },
+    {
+      "id": "UP0006-PPSA03845_00-BEYONDPS5GAME000",
+      "name": "Dead Space (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 111999,
+      "discounted_price_display": "Rp 111,999",
+      "discount_percent": 90,
+      "lowest_price": 111999,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/2uQ9krCrTymIECLlXII1rJYQ.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA03845_00-BEYONDPS5GAME000"
+    },
+    {
+      "id": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+      "name": "Hogwarts Legacy PS5 Version (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1098900,
+      "base_price_display": "Rp 1,098,900",
+      "discounted_price": 109890,
+      "discounted_price_display": "Rp 109,890",
+      "discount_percent": 90,
+      "lowest_price": 109890,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01"
+    },
+    {
+      "id": "UP1018-CUSA04408_00-SOMGOTYSOWDE0000",
+      "name": "Middle-earth™: The Shadow Bundle (Game)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1076700,
+      "base_price_display": "Rp 1,076,700",
+      "discounted_price": 107670,
+      "discounted_price_display": "Rp 107,670",
+      "discount_percent": 90,
+      "lowest_price": 107670,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2600/xzjVhrdaFxt6pKPdpdovNFOb.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA04408_00-SOMGOTYSOWDE0000"
+    },
+    {
+      "id": "UP1018-CUSA00133_00-ASIA000000000064",
+      "name": "Batman: Arkham Collection (English, Korean)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 921300,
+      "base_price_display": "Rp 921,300",
+      "discounted_price": 92130,
+      "discounted_price_display": "Rp 92,130",
+      "discount_percent": 90,
+      "lowest_price": 92130,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/0F23tOnLGzrtp74JvhJdhtpy.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA00133_00-ASIA000000000064"
+    },
+    {
+      "id": "EP4321-CUSA20373_00-8293343774348521",
+      "name": "Sniper Ghost Warrior Contracts 1 & 2 Double Pack (Simplified Chinese, English, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 920190,
+      "base_price_display": "Rp 920,190",
+      "discounted_price": 92019,
+      "discounted_price_display": "Rp 92,019",
+      "discount_percent": 90,
+      "lowest_price": 92019,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0410/54NfIdFnQ7FHKmNMRfsxTkFl.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4321-CUSA20373_00-8293343774348521"
+    },
+    {
+      "id": "UP1018-CUSA12824_00-HOGWARTSLEGACY01",
+      "name": "Hogwarts Legacy PS4 Version (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 897990,
+      "base_price_display": "Rp 897,990",
+      "discounted_price": 89799,
+      "discounted_price_display": "Rp 89,799",
+      "discount_percent": 90,
+      "lowest_price": 89799,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-CUSA12824_00-HOGWARTSLEGACY01"
+    },
+    {
+      "id": "HP1018-PPSA01866_00-LEGOSWTSS0000000",
+      "name": "LEGO® Star Wars™: The Skywalker Saga PS4 & PS5 (English, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 897990,
+      "base_price_display": "Rp 897,990",
+      "discounted_price": 89799,
+      "discounted_price_display": "Rp 89,799",
+      "discount_percent": 90,
+      "lowest_price": 89799,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png",
+      "store_url": "https://store.playstation.com/en-id/product/HP1018-PPSA01866_00-LEGOSWTSS0000000"
+    },
+    {
+      "id": "UP0006-PPSA01716_00-COMPLETEEDITION0",
+      "name": "Need for Speed™ Unbound Ultimate Collection (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1330890,
+      "base_price_display": "Rp 1,330,890",
+      "discounted_price": 199633,
+      "discounted_price_display": "Rp 199,633",
+      "discount_percent": 85,
+      "lowest_price": 199633,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/5189b73892748dacb9a2e054ddbcb29f0bb482ddf09636c0.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA01716_00-COMPLETEEDITION0"
+    },
+    {
+      "id": "UP0006-PPSA07783_00-APPLEJACKGAME000",
+      "name": "STAR WARS Jedi: Survivor™ (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1119990,
+      "base_price_display": "Rp 1,119,990",
+      "discounted_price": 167998,
+      "discounted_price_display": "Rp 167,998",
+      "discount_percent": 85,
+      "lowest_price": 167998,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-PPSA07783_00-APPLEJACKGAME000"
+    },
+    {
+      "id": "EP4356-PPSA02325_00-HWUGAMEOFTHEYEAR",
+      "name": "HOT WHEELS UNLEASHED™ - Game of the Year Edition (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 1108890,
+      "base_price_display": "Rp 1,108,890",
+      "discounted_price": 166333,
+      "discounted_price_display": "Rp 166,333",
+      "discount_percent": 85,
+      "lowest_price": 166333,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1114/BpZzNu07rVUOwTgmC29xHYIj.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA02325_00-HWUGAMEOFTHEYEAR"
+    },
+    {
+      "id": "EP4356-CUSA25503_00-HWUGAMEOFTHEYEAR",
+      "name": "HOT WHEELS UNLEASHED™ - Game of the Year Edition (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 1108890,
+      "base_price_display": "Rp 1,108,890",
+      "discounted_price": 166333,
+      "discounted_price_display": "Rp 166,333",
+      "discount_percent": 85,
+      "lowest_price": 166333,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1114/BpZzNu07rVUOwTgmC29xHYIj.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-CUSA25503_00-HWUGAMEOFTHEYEAR"
+    },
+    {
+      "id": "JP0001-PPSA01594_00-RRDELUXEED000000",
+      "name": "Riders Republic Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 975690,
+      "base_price_display": "Rp 975,690",
+      "discounted_price": 146353,
+      "discounted_price_display": "Rp 146,353",
+      "discount_percent": 85,
+      "lowest_price": 146353,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/eaf25f197a56e4e643df7475a2bf23ad77b3c023cd37a241.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/JP0001-PPSA01594_00-RRDELUXEED000000"
+    },
+    {
+      "id": "UP1018-PPSA07570_00-MKONE00000000000",
+      "name": "Mortal Kombat™ 1 (English)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 876900,
+      "base_price_display": "Rp 876,900",
+      "discounted_price": 131535,
+      "discounted_price_display": "Rp 131,535",
+      "discount_percent": 85,
+      "lowest_price": 131535,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP1018-PPSA07570_00-MKONE00000000000"
+    },
+    {
+      "id": "JP0082-PPSA08664_00-0783148264580163",
+      "name": "FINAL FANTASY VII REBIRTH (JP/EN ver) (English, Japanese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 809190,
+      "base_price_display": "Rp 809,190",
+      "discounted_price": 121378,
+      "discounted_price_display": "Rp 121,378",
+      "discount_percent": 85,
+      "lowest_price": 121378,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/4a13ce96b9aee645c5e513658e93d7a19da511e7ef3501d9.png",
+      "store_url": "https://store.playstation.com/en-id/product/JP0082-PPSA08664_00-0783148264580163"
+    },
+    {
+      "id": "HP0082-PPSA08670_00-0783148264580163",
+      "name": "FINAL FANTASY VII REBIRTH (TC/SC/KR ver) (Simplified Chinese, Korean, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 809190,
+      "base_price_display": "Rp 809,190",
+      "discounted_price": 121378,
+      "discounted_price_display": "Rp 121,378",
+      "discount_percent": 85,
+      "lowest_price": 121378,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/4a13ce96b9aee645c5e513658e93d7a19da511e7ef3501d9.png",
+      "store_url": "https://store.playstation.com/en-id/product/HP0082-PPSA08670_00-0783148264580163"
+    },
+    {
+      "id": "UP0006-CUSA08724_00-ASIA000000000010",
+      "name": "Battlefield™ V (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4"
+      ],
+      "base_price": 786990,
+      "base_price_display": "Rp 786,990",
+      "discounted_price": 118048,
+      "discounted_price_display": "Rp 118,048",
+      "discount_percent": 85,
+      "lowest_price": 118048,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP0006-CUSA08724_00-ASIA000000000010"
+    },
+    {
+      "id": "EP4356-PPSA19566_00-MOTOGP24FULLGAME",
+      "name": "MotoGP™24 PS4 & PS5 (Simplified Chinese, English, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0116/aa24d5101936ab634911e35bf6bed0acbeb362de04eed211.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA19566_00-MOTOGP24FULLGAME"
+    },
+    {
+      "id": "UP4040-PPSA01949_00-CONTROLUEPS50000",
+      "name": "CONTROL Ultimate Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0615/3UWZHE8qN0kgnF6o74Ts4AC4.jpg",
+      "store_url": "https://store.playstation.com/en-id/product/UP4040-PPSA01949_00-CONTROLUEPS50000"
+    },
+    {
+      "id": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5 (Simplified Chinese, English, Thai, Japanese, Traditional Chinese)",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "base_price": 642690,
+      "base_price_display": "Rp 642,690",
+      "discounted_price": 96403,
+      "discounted_price_display": "Rp 96,403",
+      "discount_percent": 85,
+      "lowest_price": 96403,
+      "is_all_time_low": true,
+      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1610/58e6bad48016d93a3598c3df0681f8b80ec9330a1c29c799.png",
+      "store_url": "https://store.playstation.com/en-id/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED"
+    }
+  ]
+}
