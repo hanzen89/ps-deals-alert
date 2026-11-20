@@ -1,0 +1,75 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+
+      - name: Prepare Flutter Android project
+        run: |
+          flutter create /tmp/ps_deals_alert --platforms=android --org com.psdeals --project-name ps_deals_alert
+          cp app/pubspec.yaml /tmp/ps_deals_alert/pubspec.yaml
+          cp app/lib/main.dart /tmp/ps_deals_alert/lib/main.dart
+
+      - name: Configure Android permissions and app name
+        working-directory: /tmp/ps_deals_alert
+        run: |
+          python3 - << 'EOF'
+          path = "android/app/src/main/AndroidManifest.xml"
+          with open(path, "r") as f:
+              text = f.read()
+
+          if "android.permission.INTERNET" not in text:
+              text = text.replace(
+                  "<application",
+                  '    <uses-permission android:name="android.permission.INTERNET"/>\n    <application',
+                  1,
+              )
+
+          https_intent = """        <intent>
+              <action android:name="android.intent.action.VIEW" />
+              <data android:scheme="https" />
+          </intent>"""
+
+          if "</queries>" in text:
+              text = text.replace("</queries>", f"{https_intent}\n    </queries>", 1)
+          else:
+              text = text.replace(
+                  "</manifest>",
+                  f"    <queries>\n{https_intent}\n    </queries>\n</manifest>",
+                  1,
+              )
+
+          text = text.replace('android:label="ps_deals_alert"', 'android:label="PS Deals Alert"')
+
+          with open(path, "w") as f:
+              f.write(text)
+          EOF
+
+      - name: Build release APK
+        working-directory: /tmp/ps_deals_alert
+        run: |
+          flutter pub get
+          flutter build apk --release --dart-define=DEALS_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/deals.json"
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ps-deals-alert-apk
+          path: /tmp/ps_deals_alert/build/app/outputs/flutter-apk/app-release.apk
