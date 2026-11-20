@@ -5,13 +5,14 @@ import time
 from datetime import datetime, timezone
 import requests
 
-LOCALE = "en-id"
+LOCALE = "en-id"             # Untuk URL store.playstation.com/en-id/...
+LOCALE_HEADER = "en-ID"      # Header Sony butuh kode negara huruf besar (en-ID)
 CATEGORY_ID = "3f772501-f6f8-49b7-abac-874a88ca4897"
 SHA256_HASH = "88c0b9a1273c6d320c51cd73e390924e21ae28bf09f01cde8b84b1034b16cd03"
 
-MAX_PAGES = 10            # 10 halaman x 24 = 240 game diskon
+MAX_PAGES = 10               # 10 halaman x 24 = 240 game diskon
 PAGE_SIZE = 24
-MIN_BASE_PRICE = 150000   # Filter game murah/shovelware di bawah Rp 100.000
+MIN_BASE_PRICE = 200000      # Filter game murah/shovelware di bawah Rp 200.000
 
 HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "docs/deals.json"
@@ -38,9 +39,9 @@ def fetch_page(offset: int) -> list[dict]:
         "pageArgs": {"size": PAGE_SIZE, "offset": offset},
         "sortBy": None,
         "filterBy": [
-                "storeDisplayClassification:FULL_GAME",
-                "storeDisplayClassification:GAME_BUNDLE",
-                "storeDisplayClassification:PREMIUM_EDITION",
+            "storeDisplayClassification:FULL_GAME",
+            "storeDisplayClassification:GAME_BUNDLE",
+            "storeDisplayClassification:PREMIUM_EDITION",
         ],
         "facetOptions": [],
     }
@@ -56,15 +57,21 @@ def fetch_page(offset: int) -> list[dict]:
         "extensions": json.dumps(extensions, separators=(",", ":")),
     }
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "x-psn-store-locale-override": LOCALE,
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Content-Type": "application/json",
         "Accept": "application/json",
+        "Accept-Language": LOCALE_HEADER,
+        "x-psn-store-locale-override": LOCALE_HEADER,
+        "Origin": "https://store.playstation.com",
+        "Referer": "https://store.playstation.com/",
     }
 
     resp = requests.get(GRAPHQL_URL, params=params, headers=headers, timeout=20)
-    resp.raise_for_status()
-    data = resp.json()
+    if not resp.ok:
+        print(f"HTTP {resp.status_code} response body: {resp.text[:500]}")
+        resp.raise_for_status()
 
+    data = resp.json()
     if "errors" in data:
         raise RuntimeError(f"GraphQL Error: {data['errors']}")
 
